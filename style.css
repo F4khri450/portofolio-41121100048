@@ -1,0 +1,62 @@
+/* style.css */
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .content {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+  }
+  
+  /* Header Styles */
+  header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  /* Content Styles */
+  .content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .content li {
+    margin-bottom: 10px;
+  }
+  
+  /* Footer Styles */
+  footer p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  footer li {
+    margin-bottom: 10px;
+  }
